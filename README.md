@@ -7,7 +7,9 @@ Ubah file video Anda menjadi audio berkualitas tinggi secara lokal, cepat, dan t
 * **Custom Bitrate:** Pilih kualitas (128kbps, 192kbps, atau 320kbps).
 * **Animasi Progress:** Tampilan loading bar profesional saat memproses.
 * **Folder Custom:** Simpan hasil konversi langsung ke folder musik Anda.
-* ![Tampilan Tools](Ss.jpg)
+<p align="center">
+  <img src="Ss.jpg" width="350" title="Tampilan AmarProject">
+</p>
 
 ## 📥 Instalasi
 ```bash

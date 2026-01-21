@@ -1,5 +1,4 @@
 # 🎵 Konverter MP4-to-MP3 Ultimate
-![Tampilan Tools](Ss.jpg)
 **Developer: AmarProject**
 
 Ubah file video Anda menjadi audio berkualitas tinggi secara lokal, cepat, dan tanpa membutuhkan koneksi internet.
@@ -8,6 +7,7 @@ Ubah file video Anda menjadi audio berkualitas tinggi secara lokal, cepat, dan t
 * **Custom Bitrate:** Pilih kualitas (128kbps, 192kbps, atau 320kbps).
 * **Animasi Progress:** Tampilan loading bar profesional saat memproses.
 * **Folder Custom:** Simpan hasil konversi langsung ke folder musik Anda.
+* ![Tampilan Tools](Ss.jpg)
 
 ## 📥 Instalasi
 ```bash
